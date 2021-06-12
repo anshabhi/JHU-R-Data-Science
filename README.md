@@ -27,7 +27,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://www.coursera.org/specializations/jhu-data-science">
     <img src="images/logo.png" alt="Logo" width="50%" height="50%">
   </a>
 
